@@ -1,4 +1,3 @@
-# ACMUD Proyecto agente n8n whatsapp
 # 🤖 Asistente Inteligente en WhatsApp para PYMEs (n8n + IA)
 
 ## 🧩 Descripción General
