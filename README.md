@@ -34,7 +34,7 @@ Este proyecto busca resolver ese desafío mediante:
 |-------------|-------------|--------------|
 | **Plataforma principal** | [n8n v1.50+](https://n8n.io/) | Entorno low-code para crear workflows visuales y conectar APIs. |
 | **Integración con WhatsApp** | [Twilio API](https://www.twilio.com/whatsapp) | Envía y recibe mensajes, permite pruebas con sandbox gratuito. |
-| **Motor de IA** | [Google AI Studio API]([https://platform.openai.com/](https://aistudio.google.com/)) / AI Node | Analiza, clasifica y genera respuestas naturales en lenguaje humano. |
+| **Motor de IA** | [Google AI Studio API](https://aistudio.google.com) / AI Node | Analiza, clasifica y genera respuestas naturales en lenguaje humano. |
 | **Gestión de datos** | SQLite / PostgreSQL / Google Sheets | Consulta y registro de interacciones, stock y leads. |
 | **Automatización** | Cron / Scheduler Node | Crea recordatorios y seguimientos automáticos. |
 | **Despliegue** | Docker / n8n Self-host / Heroku + Ngrok | Permite ejecución local o en la nube a bajo costo (<5 USD/mes). |
