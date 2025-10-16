@@ -79,4 +79,5 @@ El sistema se organiza como un flujo modular dentro de **n8n**, donde cada nodo 
 - El Asistente Inteligente en WhatsApp para PYMEs es una solución práctica, accesible y escalable que digitaliza la atención al cliente y optimiza las ventas mediante automatización e inteligencia artificial.
 - Gracias a su arquitectura modular en n8n, puede adaptarse fácilmente a diferentes tipos de negocios, manteniendo bajo costo y alta eficiencia operativa.
 
-
+### Desarrollado por:
+Nicolas Casanova
