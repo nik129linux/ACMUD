@@ -1,4 +1,4 @@
-# 🤖 Asistente Inteligente en WhatsApp para PYMEs (n8n + IA)
+# Asistente Inteligente en WhatsApp para PYMEs (n8n + IA)
 
 ## 🧩 Descripción General
 Este proyecto consiste en el desarrollo de un **asistente automatizado de ventas y atención al cliente** para pequeñas y medianas empresas (**PYMEs**).  
